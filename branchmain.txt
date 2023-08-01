@@ -1,0 +1,2 @@
+
+Vamos falar sobre o git stash
